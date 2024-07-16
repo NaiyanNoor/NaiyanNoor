@@ -49,7 +49,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naiyannoor&" alt="naiyannoor" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=msoftware)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=Naiyannoor)
 
 ## Watch snake eating my github contributions
 ![snake gif](https://github.com/Naiyannoor/Naiyannoor/blob/output/github-contribution-grid-snake.svg)
