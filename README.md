@@ -38,7 +38,8 @@
 <a href="https://www.youtube.com/c/@naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@naiyannoor" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/naiyannoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naiyannoor" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naiyannoor" height="30" width="40" /></a>
-<a href="https://discord.gg/naiyan#5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naiyan#5007" height="30" width="40" /></a>
+<
+a href="https://discord.gg/naiyan#5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naiyan#5007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,6 +52,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naiyannoor&" alt="naiyannoor" /></p>
 
 ![](https://github-trophies.vercel.app/?username=Naiyannoor)
+
+![Naiyan Noor's Graph](https://github-readme-activity-graph.vercel.app/graph?username=naiyannoor&custom_title=Naiyan%20Noor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 [![@kochie's Holopin board](https://holopin.me/naiyannoor)](https://holopin.io/@naiyannoor)
 
 ## Watch snake eating my github contributions
