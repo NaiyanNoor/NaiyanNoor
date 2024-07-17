@@ -1,11 +1,13 @@
-![masterhead](https://1.bp.blogspot.com/-744wynwlsmw/xbbpcxg8fhi/aaaaaaaamt4/u0a1bplskygrwgb11h5u25dj_mig85x3qclcbgasyhq/s1600/2000_600px.gif)]
+
+![masterhead](https://1.bp.blogspot.com/-744wynwlsmw/xbbpcxg8fhi/aaaaaaaamt4/u0a1bplskygrwgb11h5u25dj_mig85x3qclcbgasyhq/s1600/2000_600px.gif)
+
+
 <div>
    <h1 align="center"?
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Naiyan+Noor!" />
     </a>
    </h1>
-
 
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -43,11 +45,44 @@
 </p>
 
 
-<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,github,gitlab,vscode,visualstudio,ruby,swift" 
+<h3 align="left">Languages and Tools:</h3>
 
- </p>
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -70,7 +105,7 @@
 ## 📈 Github Activity Graph
 ![Naiyan Noor's Graph](https://github-readme-activity-graph.vercel.app/graph?username=naiyannoor&custom_title=Naiyan%20Noor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-## kochie's Holopin board
+## Achievements:
 [![@kochie's Holopin board](https://holopin.me/naiyannoor)](https://holopin.io/@naiyannoor)
 
 
