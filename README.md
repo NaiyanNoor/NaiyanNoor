@@ -8,6 +8,7 @@
 
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naiyannoor&label=Profile%20views&color=0e75b6&style=flat" alt="naiyannoor" /> </p>
@@ -50,6 +51,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naiyannoor&" alt="naiyannoor" /></p>
 
 ![](https://github-trophies.vercel.app/?username=Naiyannoor)
+[![@kochie's Holopin board](https://holopin.me/naiyannoor)](https://holopin.io/@naiyannoor)
 
 ## Watch snake eating my github contributions
 ![snake gif](https://github.com/Naiyannoor/Naiyannoor/blob/output/github-contribution-grid-snake.svg)
