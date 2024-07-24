@@ -84,7 +84,7 @@
 
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics & Programing Languages
 
 <p align="center">
 <a href="https://github.com/AVS1508">
