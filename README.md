@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.credly.com/users/naiyan-noor](https://www.credly.com/users/naiyan-noor)
+- 📊 MY Data Science Badgess on [https://www.credly.com/users/naiyan-noor](https://www.credly.com/users/naiyan-noor)
 
 - 💬 Ask me about **Web Development**
 
@@ -84,7 +84,7 @@
 
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics & Programing Languages
+### ⚙️ &nbsp;GitHub Analytics & Programming Languages
 
 <p align="center">
 <a href="https://github.com/AVS1508">
