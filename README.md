@@ -18,6 +18,10 @@
 
 <p align="left"> <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /></a> </p>
 
+<h3 align="left">Naiyan Noor</h3>
+<h5>Studied at Bangladesh Army University of Science and Technology -BAUST,Saidpur</h5>
+<p>BSc in Computer Science Engineering</p>
+
 - 📊 MY Data Science Badges on [https://www.credly.com/users/naiyan-noor](https://www.credly.com/users/naiyan-noor)
 
 - 💬 Ask me about **Web Development**
@@ -30,7 +34,8 @@
 <p align="left">
 <a href="https://dev.to/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naiyannoor" height="30" width="40" /></a>
 <a href="https://twitter.com/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naiyannoor" height="30" width
-="40" /></a>
+="40" /></
+a>
 <a href="https://linkedin.com/in/naiyannoor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naiyannoor/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="naiyannoor" height="30" width="40" /></a>
 <a href="https://fb.com/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naiyannoor" height="30" width="40" /></a>
