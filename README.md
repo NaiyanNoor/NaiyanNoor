@@ -33,7 +33,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naiyannoor" height="30" width="40" /></a>
-<a href="https://twitter.com/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naiyannoor" height="30" width
+<a href="https://twitter.com/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt
+="naiyannoor" height="30" width
 ="40" /></
 a>
 <a href="https://linkedin.com/in/naiyannoor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naiyannoor/" height="30" width="40" /></a>
@@ -106,6 +107,12 @@ a>
 
 ## 🐍 Watch snake eating my github contributions
 ![snake gif](https://github.com/Naiyannoor/Naiyannoor/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
 
 ## 📈 Github Activity Graph
 ![Naiyan Noor's Graph](https://github-readme-activity-graph.vercel.app/graph?username=naiyannoor&custom_title=Naiyan%20Noor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
