@@ -10,7 +10,7 @@
     </a>
    </h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
+<h3 align="center">A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="50" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naiyannoor&label=Profile%20views&color=0e75b6&style=flat" alt="naiyannoor" /> </p>
 
