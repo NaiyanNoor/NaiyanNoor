@@ -2,7 +2,6 @@
 
 ![masterhead](https://1.bp.blogspot.com/-744wynwlsmw/xbbpcxg8fhi/aaaaaaaamt4/u0a1bplskygrwgb11h5u25dj_mig85x3qclcbgasyhq/s1600/2000_600px.gif)
 
-
 <div>
    <h1 align="center"?
     <a href="https://git.io/typing-svg">
@@ -17,7 +16,10 @@
 <p align="left"> <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/Coding.gif">
-<h1 align="left">Naiyan Noor</h1>
+
+<h1 align="left">Naiyan Noor<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif"></h1>
+
+
 <h5>Studied at Bangladesh Army University of Science and Technology -BAUST,Saidpur</h5>
 <p>BSc in Computer Science Engineering</p>
 
