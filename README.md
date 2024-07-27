@@ -27,7 +27,8 @@
 <h5>Studied at Bangladesh Army University of Science and Technology -BAUST,Saidpur</h5>
 <p>BSc in Computer Science Engineering</p>
 
-- 📊 MY Data Science Badges on [https://www.credly.com/users/naiyan-noor](https://www.credly.com/users/naiyan-noor
+- 📊 MY Data Science Badges on [https://www.credly.com/users/naiyan-noor
+](https://www.credly.com/users/naiyan-noor
 )
 
 - 💬 Ask me about **Web Development**
@@ -101,7 +102,7 @@ a>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaiyanNoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaiyanNoor&layout=compact&langs_count=12&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaiyanNoor&layout=compact&langs_count=20&theme=algolia"/>
 </a>
 </p>
 
