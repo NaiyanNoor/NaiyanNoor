@@ -38,7 +38,10 @@
 - ⚡ Fun fact **Always Want To Learn More 📚**
 
 ### ⚙️ &nbsp;Certificate
-<img align="left" alt="Coding" width="1000" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer1.jpg">
+ 
+<img align="center" alt="Coding" width="400" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer1.jpg">
+<img align="left" alt="Coding" width="400"
+   src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/cer2.jpg">
 <br>
 <br>
 
