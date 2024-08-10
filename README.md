@@ -19,8 +19,9 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 </p>
 
 <p align="left"> <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /> </p>
+   <img align="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/My%20Video.gif">
+<br>
 
-<img align="right" alt="Coding" width="210" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/My%20Video.gif">
 
 <h1 align="left">Naiyan Noor<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif"></h1>
 
