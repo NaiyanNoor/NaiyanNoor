@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/Coding.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/Naiyan Noor1111.gif">
 
 <h1 align="left">Naiyan Noor<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif"></h1>
 
