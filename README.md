@@ -9,7 +9,8 @@
     </a>
    </h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
+<h3 align="center">
+A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 <p align="left"> 
@@ -19,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /> </p>
 
-<img align="right" alt="Coding" width="270" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/My%20Video.gif">
+<img align="right" alt="Coding" width="210" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/My%20Video.gif">
 
 <h1 align="left">Naiyan Noor<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif"></h1>
 
