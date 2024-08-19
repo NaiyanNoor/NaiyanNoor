@@ -12,19 +12,18 @@
 <h3 align="center">
 A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=naiyannoor&label=Profile%20views&color=0e75b6&style=flat" alt="naiyannoor" /> 
-   
+ <img src="https://komarev.com/ghpvc/?username=naiyannoor&label=Profile%20views&color=0e75b6&style=flat" alt="naiyannoor" />  
 </p>
 
-<p align="left"> <
-a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /> </p>
+<p align="left"> 
+   <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor"/> </p>
    <img align="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/NR18.gif">
 <br>
 
 
-<h1 align="left">Naiyan Noor<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif"></h1>
+<h1 align="left">Naiyan Noor<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif">
+</h1>
 
 
 <h5>Studied at Bangladesh Army University of Science and Technology -BAUST,Saidpur</h5>
