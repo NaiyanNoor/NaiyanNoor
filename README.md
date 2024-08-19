@@ -18,7 +18,8 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
    
 </p>
 
-<p align="left"> <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /> </p>
+<p align="left"> <
+a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor" /> </p>
    <img align="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/NR18.gif">
 <br>
 
@@ -115,7 +116,7 @@ a>
 ### ⚙️ &nbsp;GitHub Analytics & Programming Languages
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/NaiyanNoor">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaiyanNoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaiyanNoor&layout=compact&langs_count=20&theme=algolia"/>
 </a>
