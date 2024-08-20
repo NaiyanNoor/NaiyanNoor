@@ -36,7 +36,7 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **naiyannoor@gmail.com**
+- 📫 How to Connect with me **naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 - ⚡ Fun fact **Always Want To Learn More 📚**
 
@@ -56,7 +56,8 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naiyannoor" height="30" width="40" /></a>
-<a href="https://twitter.com/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt
+<a href="https://twitter.com/naiyannoor" target="blank"
+><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt
 ="naiyannoor" height="30" width
 ="40" /></
 a>
