@@ -114,7 +114,7 @@ a>
 
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics & Programming Languages
+## ⚙️ &nbsp;GitHub Analytics & Programming Languages
 
 <p align="center">
 <a href="https://github.com/NaiyanNoor">
