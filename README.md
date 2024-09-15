@@ -5,7 +5,7 @@
 <div>
    <h1 align="center"?
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/? font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Naiyan+Noor!;+Welcome+to+My+Github+Profile!" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Naiyan+Noor!;+Welcome+to+My+Github+Profile!" />
     </a>
    </h1>
 </div>
@@ -40,7 +40,8 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 
 ### ⚙️ &nbsp;Certificates
  
-<img align="center" alt="Coding" width="830" 
+<img align="center" alt="Coding" width
+="830" 
    src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer1.jpg">
    
 <img align="center" alt="Coding" width="830"  
