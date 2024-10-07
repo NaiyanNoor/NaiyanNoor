@@ -1,6 +1,5 @@
 <img src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan150201018.gif">
 
-![masterhead](https://1.bp.blogspot.com/-744wynwlsmw/xbbpcxg8fhi/aaaaaaaamt4/u0a1bplskygrwgb11h5u25dj_mig85x3qclcbgasyhq/s1600/2000_600px.gif)
 
 <div>
    <h1 align="center"?
@@ -13,9 +12,6 @@
 <h3 align="center">
 A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
 
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=naiyannoor&label=Profile%20views&color=0e75b6&style=flat" alt="naiyannoor" />  
-</p>
 
 <p align="left"> 
    <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor"/> </p>
@@ -54,7 +50,8 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naiyannoor" height="30" width="40" /></a>
+<a href="https://dev.to/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naiyannoor"
+ height="30" width="40" /></a>
 <a href="https://twitter.com/naiyannoor" target="blank"
 ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt
 ="naiyannoor" height="30" width
