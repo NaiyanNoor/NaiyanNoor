@@ -7,7 +7,6 @@
 <p align="left"> 
    <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor"/> </p>
 
-
 <div>
    <h1 align="center"?
     <a href="https://git.io/typing-svg">
