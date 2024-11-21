@@ -28,7 +28,7 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 - 📊 MY Data Science Badges on [https://www.credly.com/users/naiyan-noor
 ](https://www.credly.com/users/naiyan-noor
 )
-
+ 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to Connect with me **naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
