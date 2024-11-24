@@ -11,7 +11,7 @@
     </a>
    </h1>
 </div>
-
+ 
 <h3 align="center">
 A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h3>
  
@@ -58,7 +58,8 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 ="naiyannoor" height="30" width
 ="40" /></
 a>
-<a href="https://linkedin.com/in/naiyannoor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naiyannoor/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naiyannoor/" target="blank"><img align
+="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naiyannoor/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="naiyannoor" height="30" width="40" /></a>
 <a href="https://fb.com/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naiyannoor" height="30" width="40" /></a>
 <a href="https://instagram.com/naiyannoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naiyannoor" height="30" width="40" /></a>
